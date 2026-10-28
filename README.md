@@ -1,6 +1,6 @@
 FDS OBSERVATION 
 
-Subject: FUNDAMNETALS OF DATA SCIENCE
+Subject: FUNDAMENTALS OF DATA SCIENCE
 
 Programming Language: Python
 
